@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.gastoid.juanjo_android.gastocontrol.Act_Gasto"/>
+      <point      
+        x = "2704"      
+        y = "2044"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.gastoid.juanjo_android.gastocontrol.Act_Gasto"/>
+      <point      
+        x = "1436"      
+        y = "2044"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.gastoid.juanjo_android.gastocontrol.Act_Presupuesto"/>
+      <point      
+        x = "1428"      
+        y = "608"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.gastoid.juanjo_android.gastocontrol.Act_Presupuesto"/>
+      <point      
+        x = "2696"      
+        y = "608"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.gastoid.juanjo_android.gastocontrol.MainGastoControl"/>
+      <point      
+        x = "292"      
+        y = "264"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.gastoid.juanjo_android.gastocontrol.MainGastoControl"/>
+      <point      
+        x = "1560"      
+        y = "264"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

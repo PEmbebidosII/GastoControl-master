@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GastoControl</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act__presupuesto">Presupuesto</string>
+    <string name="title_activity_act__gasto">Gasto</string>
+    <string name="title_activity_act__ingreso">Ingreso</string>
+    <string name="title_activity_act_reporte">Reporte</string>
+</resources>
